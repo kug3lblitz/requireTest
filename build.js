@@ -11,5 +11,6 @@
 	excludeShallow: ['jquery'],
 	generateSourceMaps: true,
 	useSourceUrl: true,
-	preserveLicenseComments: false
+	preserveLicenseComments: false,
+    wrapShim: true
 })
